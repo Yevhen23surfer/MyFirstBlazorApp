@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/yevgenskopets/Documents/IT/Course/kodehode/Modul C/BlazorWebApp/BlazorApp/BlazorApp.csproj",
+      "projectUniqueName": "/Users/yevgenskopets/Documents/IT/Course/kodehode/Modul C/BlazorWebApp/BlazorToDoApp/BlazorApp.csproj",
       "projectName": "BlazorApp",
-      "projectPath": "/Users/yevgenskopets/Documents/IT/Course/kodehode/Modul C/BlazorWebApp/BlazorApp/BlazorApp.csproj",
+      "projectPath": "/Users/yevgenskopets/Documents/IT/Course/kodehode/Modul C/BlazorWebApp/BlazorToDoApp/BlazorApp.csproj",
       "packagesPath": "/Users/yevgenskopets/.nuget/packages/",
-      "outputPath": "/Users/yevgenskopets/Documents/IT/Course/kodehode/Modul C/BlazorWebApp/BlazorApp/obj/",
+      "outputPath": "/Users/yevgenskopets/Documents/IT/Course/kodehode/Modul C/BlazorWebApp/BlazorToDoApp/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/yevgenskopets/.nuget/NuGet/NuGet.Config"
