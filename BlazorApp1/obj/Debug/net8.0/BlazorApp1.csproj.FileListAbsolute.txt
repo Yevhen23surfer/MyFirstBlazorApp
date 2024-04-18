@@ -27,3 +27,4 @@
 /Users/yevgenskopets/Documents/IT/Course/kodehode/Modul C/BlazorWebApp/BlazorApp1/obj/Debug/net8.0/BlazorApp1.pdb
 /Users/yevgenskopets/Documents/IT/Course/kodehode/Modul C/BlazorWebApp/BlazorApp1/obj/Debug/net8.0/BlazorApp1.genruntimeconfig.cache
 /Users/yevgenskopets/Documents/IT/Course/kodehode/Modul C/BlazorWebApp/BlazorApp1/obj/Debug/net8.0/ref/BlazorApp1.dll
+/Users/yevgenskopets/Documents/IT/Course/kodehode/Modul C/BlazorWebApp/BlazorApp1/obj/Debug/net8.0/BlazorApp1.sourcelink.json

@@ -20,3 +20,27 @@
         currentCount += IncrementAmount;
     }
 }
+
+<br/><br/>
+<label>Enter text: </label>
+<br />
+<input @onchange="InputChanged" />
+<p style="color:red">Press enter *</p>
+<p>@message</p>
+
+@code {
+    string message = "";
+
+    void InputChanged(ChangeEventArgs e)
+    {
+        message = (string)e.Value;
+    }
+}
+
+<input @bind="text" />
+<button @onclick="() => text = string.Empty">Clear</button>
+<p>@text</p>
+
+@code {
+    string text = "";
+}
